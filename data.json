@@ -10,64 +10,64 @@
    "assets":[
       {
          "id":"image_0",
-         "w":960,
-         "h":566,
+         "w":1080,
+         "h":,
          "u":"http://tonsser-development.imgix.net/top_stories_images_e185f9ad69c39f15e6ca/5/",
          "p":"2dbbc7f73e818054eebb_11-2.jpg"
       },
       {
          "id":"image_1",
-         "w":540,
-         "h":960,
+         "w":1080,
+         "h":,
          "u":"http://tonsser-development.imgix.net/top_stories_images_e185f9ad69c39f15e6ca/5/",
          "p":"2dbbc7f73e818054eebb_11-2.jpg"
       },
       {
          "id":"image_2",
-         "w":800,
-         "h":645,
+         "w":1080,
+         "h":,
          "u":"http://tonsser-development.imgix.net/top_stories_images_e185f9ad69c39f15e6ca/5/",
          "p":"2dbbc7f73e818054eebb_11-2.jpg"
       },
       {
          "id":"image_3",
-         "w":960,
-         "h":939,
+         "w":1080,
+         "h":,
          "u":"http://tonsser-development.imgix.net/top_stories_images_e185f9ad69c39f15e6ca/5/",
          "p":"2dbbc7f73e818054eebb_11-2.jpg"
       },
       {
          "id":"image_4",
-         "w":540,
-         "h":960,
+         "w":1080,
+         "h":,
          "u":"http://tonsser-development.imgix.net/top_stories_images_e185f9ad69c39f15e6ca/5/",
          "p":"2dbbc7f73e818054eebb_11-2.jpg"
       },
       {
          "id":"image_5",
-         "w":2080,
-         "h":1166,
+         "w":1080,
+         "h":,
          "u":"http://tonsser-development.imgix.net/top_stories_images_e185f9ad69c39f15e6ca/5/",
          "p":"2dbbc7f73e818054eebb_11-2.jpg"
       },
       {
          "id":"image_6",
-         "w":422,
-         "h":422,
+         "w":1080,
+         "h":,
          "u":"http://tonsser-development.imgix.net/top_stories_images_e185f9ad69c39f15e6ca/5/",
          "p":"2dbbc7f73e818054eebb_11-2.jpg"
       },
       {
          "id":"image_7",
-         "w":720,
-         "h":960,
+         "w":1080,
+         "h":,
          "u":"http://tonsser-development.imgix.net/top_stories_images_e185f9ad69c39f15e6ca/5/",
          "p":"2dbbc7f73e818054eebb_11-2.jpg"
       },
       {
          "id":"image_8",
-         "w":1359,
-         "h":1601,
+         "w":1080,
+         "h":,
          "u":"http://tonsser-development.imgix.net/top_stories_images_e185f9ad69c39f15e6ca/5/",
          "p":"2dbbc7f73e818054eebb_11-2.jpg"
       },
@@ -80,8 +80,8 @@
       },
       {
          "id":"image_10",
-         "w":910,
-         "h":577,
+         "w":1080,
+         "h":,
          "u":"http://tonsser-development.imgix.net/top_stories_images_e185f9ad69c39f15e6ca/5/",
          "p":"2dbbc7f73e818054eebb_11-2.jpg"
       }
